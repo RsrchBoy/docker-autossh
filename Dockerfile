@@ -6,7 +6,7 @@
 #   -v dotssh:/root/.ssh:ro
 
 FROM alpine:3.3
-MAINTAINER Chris Weyl <chris.weyl@dreamhost.com>
+MAINTAINER Chris Weyl <cweyl@alumni.drew.edu>
 
 RUN cat /etc/apk/repositories
 
